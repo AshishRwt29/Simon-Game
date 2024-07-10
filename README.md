@@ -1,4 +1,4 @@
-Project Title - SIMON SAYS GAME
+#Project Title - SIMON SAYS GAME
 
 Project Description
 "This project is a digital version of the classic Simon Says game, built using HTML, CSS, and JavaScript. It tests memory and pattern recognition skills."
