@@ -32,11 +32,11 @@ This project is a simple Simon Says game implemented using HTML, CSS, and JavaSc
 
 1. Clone the Repository: Download the project files from GitHub.
 
- git clone https://github.com/AshishRwt29/Simon-Says-Game.git
+   git clone https://github.com/AshishRwt29/Simon-Says-Game.git
 
 2. Navigate to the Project Directory: Go to the folder where the project files are located.
 
- cd Simon-Says-Game
+   cd Simon-Says-Game
 
 3. Open index.html in Your Web Browser: Open the index.html file to start the game.
 
