@@ -30,11 +30,25 @@ This project is a simple Simon Says game implemented using HTML, CSS, and JavaSc
 - **JavaScript**: For game logic and interactivity.
 ## How to Run
 
-1. git clone https://github.com/AshishRwt29/Simon-Says-Game.git
+1. Clone the Repository: Download the project files from GitHub.
 
-2. cd Simon-Says-Game
+ git clone https://github.com/AshishRwt29/Simon-Says-Game.git
 
-3. Open index.html in your web browser to start playing.
+2. Navigate to the Project Directory: Go to the folder where the project files are located.
+
+ cd Simon-Says-Game
+
+3. Open index.html in Your Web Browser: Open the index.html file to start the game.
+
+ - On Windows: start index.html
+ - On Mac: open index.html
+ - On Linux: xdg-open index.html
+
+
+
+
+
+ 
 ## License
 
 This project is licensed under the MIT License.
